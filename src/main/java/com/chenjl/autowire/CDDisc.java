@@ -1,4 +1,4 @@
 package com.chenjl.autowire;
 
-public interface CompactDisc {
+public class CDDisc {
 }
